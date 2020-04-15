@@ -1,4 +1,4 @@
-Maze Generator
+# Mazegen
 
 ## Project
 The project is a maze generator/solver made with Vue and p5.js.
